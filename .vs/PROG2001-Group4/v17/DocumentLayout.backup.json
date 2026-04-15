@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\SpeedPad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\SpeedPad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerMovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\PlayerMovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\GameTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\GameTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\FinishZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\FinishZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\ThirdPersonCameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\ThirdPersonCameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\SimpleThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\SimpleThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerEat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\PlayerEat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\Suriyun\\Yippy Kawaii\\Scripts\\Camera Scripts\\MouseOrbitImproved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Suriyun\\Yippy Kawaii\\Scripts\\Camera Scripts\\MouseOrbitImproved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\jiaoben\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinishZone.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\FinishZone.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\FinishZone.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\FinishZone.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\FinishZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:03:50.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeedPad.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\SpeedPad.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\SpeedPad.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\SpeedPad.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\SpeedPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:03:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\GameTimer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAABIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:03:06.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement2.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerMovement2.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\PlayerMovement2.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerMovement2.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\PlayerMovement2.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:02:39.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThirdPersonCameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\ThirdPersonCameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\ThirdPersonCameraFollow.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\ThirdPersonCameraFollow.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\ThirdPersonCameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:29:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\PlayerMovement.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:29:00.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleThirdPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\SimpleThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\SimpleThirdPersonController.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\SimpleThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\SimpleThirdPersonController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:54:36.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MouseOrbitImproved.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\Suriyun\\Yippy Kawaii\\Scripts\\Camera Scripts\\MouseOrbitImproved.cs",
+              "RelativeDocumentMoniker": "Assets\\Suriyun\\Yippy Kawaii\\Scripts\\Camera Scripts\\MouseOrbitImproved.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\Suriyun\\Yippy Kawaii\\Scripts\\Camera Scripts\\MouseOrbitImproved.cs",
+              "RelativeToolTip": "Assets\\Suriyun\\Yippy Kawaii\\Scripts\\Camera Scripts\\MouseOrbitImproved.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:28:11.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerEat.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerEat.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\PlayerEat.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\PlayerEat.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\PlayerEat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:24:03.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoben\\Food.cs",
+              "ToolTip": "C:\\Users\\Bobby2003\\My project (7)\\PROG2001-Group4\\Assets\\jiaoben\\Food.cs",
+              "RelativeToolTip": "Assets\\jiaoben\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:19:16.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

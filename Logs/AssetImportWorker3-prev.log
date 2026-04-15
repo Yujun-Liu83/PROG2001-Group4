@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.45f2c1\Editor\Unity.exe
 -name
 AssetImportWorker3
 -projectPath
-C:/Users/Bobby2003/My project (7)
+C:/Users/Bobby2003/My project (7)/PROG2001-Group4
 -logFile
 Logs/AssetImportWorker3.log
 -srvPort
-50611
-Successfully changed project path to: C:/Users/Bobby2003/My project (7)
-C:/Users/Bobby2003/My project (7)
+56394
+Successfully changed project path to: C:/Users/Bobby2003/My project (7)/PROG2001-Group4
+C:/Users/Bobby2003/My project (7)/PROG2001-Group4
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,17 +47,17 @@ C:/Users/Bobby2003/My project (7)
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [55556] Host "[IP] 26.18.251.41 [Port] 0 [Flags] 2 [Guid] 1174990697 [EditorId] 1174990697 [Version] 1048832 [Id] WindowsEditor(7,Bobby) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [24300] Host "[IP] 26.18.251.41 [Port] 0 [Flags] 2 [Guid] 1492861053 [EditorId] 1492861053 [Version] 1048832 [Id] WindowsEditor(7,Bobby) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [55556] Host "[IP] 26.18.251.41 [Port] 0 [Flags] 2 [Guid] 1174990697 [EditorId] 1174990697 [Version] 1048832 [Id] WindowsEditor(7,Bobby) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [24300] Host "[IP] 26.18.251.41 [Port] 0 [Flags] 2 [Guid] 1492861053 [EditorId] 1492861053 [Version] 1048832 [Id] WindowsEditor(7,Bobby) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 AS: AutoStreaming module initializing.
 [Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
-Refreshing native plugins compatible for Editor in 38.61 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 38.72 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.45f2c1 (8058fe21db2f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Bobby2003/My project (7)/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Bobby2003/My project (7)/PROG2001-Group4/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -69,90 +69,90 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56552
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004328 seconds.
+Registered in 0.578333 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 31.76 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 28.26 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.404 seconds
+- Completed reload, in 18.635 seconds
 Domain Reload Profiling:
-	ReloadAssembly (405ms)
-		BeginReloadAssembly (78ms)
+	ReloadAssembly (18636ms)
+		BeginReloadAssembly (14911ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (262ms)
-			LoadAssemblies (76ms)
+		EndReloadAssembly (2181ms)
+			LoadAssemblies (14908ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (63ms)
+			SetupTypeCache (1982ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (18ms)
 			SetupLoadedEditorAssemblies (154ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (32ms)
+				RefreshPlugins (28ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (85ms)
-				ProcessInitializeOnLoadMethodAttributes (30ms)
+				ProcessInitializeOnLoadAttributes (77ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004492 seconds.
+Registered in 0.004032 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Completed reload, in  1.054 seconds
+- Completed reload, in 10.899 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1055ms)
-		BeginReloadAssembly (88ms)
+	ReloadAssembly (10899ms)
+		BeginReloadAssembly (99ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (13ms)
-		EndReloadAssembly (896ms)
-			LoadAssemblies (70ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (10598ms)
+			LoadAssemblies (8146ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (162ms)
+			SetupTypeCache (1499ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (625ms)
+			SetupLoadedEditorAssemblies (931ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (40ms)
-				ProcessInitializeOnLoadAttributes (558ms)
-				ProcessInitializeOnLoadMethodAttributes (16ms)
+				BeforeProcessingInitializeOnLoad (35ms)
+				ProcessInitializeOnLoadAttributes (871ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
 				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
-Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3109 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 24 unused Assets / (47.1 KB). Loaded Objects now: 3584.
-Memory consumption went from 126.1 MB to 126.0 MB.
-Total: 3.043600 ms (FindLiveObjects: 0.227500 ms CreateObjectMapping: 0.074000 ms MarkObjects: 2.646700 ms  DeleteObjects: 0.093800 ms)
+Unloading 2977 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (46.7 KB). Loaded Objects now: 3454.
+Memory consumption went from 121.4 MB to 121.4 MB.
+Total: 4.173700 ms (FindLiveObjects: 0.275300 ms CreateObjectMapping: 0.081300 ms MarkObjects: 3.737000 ms  DeleteObjects: 0.079100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -169,87 +169,76 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 170035.372085 seconds.
-  path: Assets/Suriyun/Yippy Kawaii/UI/BunnyBt.png
-  artifactKey: Guid(22affe86b789541438bc2945e02ab953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  Time since last request: 6105.979874 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Dirt_1A_D.terrainlayer
+  artifactKey: Guid(e202698675a9dda49beb30db3052df97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/Suriyun/Yippy Kawaii/UI/BunnyBt.png using Guid(22affe86b789541438bc2945e02ab953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5768ef752532659df412310920fbb409') in 0.193202 seconds 
-Number of asset objects unloaded after import = 3
+Start importing Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Dirt_1A_D.terrainlayer using Guid(e202698675a9dda49beb30db3052df97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76e807b324e5a5e8f8b1ba51e3aebe7') in 0.228644 seconds 
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 12.566859 seconds.
-  path: Assets/Suriyun/Yippy Kawaii/Prefab/ExampleCustomize/Example06.prefab
-  artifactKey: Guid(9919827760a628c41ade438f97fe5e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  Time since last request: 0.000172 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Earth_3A_D.terrainlayer
+  artifactKey: Guid(5ae6a6247d9fd7145bd438b27f9badc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/Suriyun/Yippy Kawaii/Prefab/ExampleCustomize/Example06.prefab using Guid(9919827760a628c41ade438f97fe5e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93511c65a4a49533e94bbdd078175c87') in 0.240060 seconds 
-Number of asset objects unloaded after import = 372
+Start importing Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Earth_3A_D.terrainlayer using Guid(5ae6a6247d9fd7145bd438b27f9badc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df11f7a33f7d984b0ac66d273419cff3') in 0.004606 seconds 
+Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Suriyun/Yippy Kawaii/Prefab/ExampleCustomize/Example17.prefab
-  artifactKey: Guid(1d7147c564c428a418a1f1283a5d757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  Time since last request: 0.000033 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Dirt_1A_D.png
+  artifactKey: Guid(5a5d391439e62174da461385de150077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/Suriyun/Yippy Kawaii/Prefab/ExampleCustomize/Example17.prefab using Guid(1d7147c564c428a418a1f1283a5d757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1feffc2a22142975ce6959557bc221') in 0.157848 seconds 
-Number of asset objects unloaded after import = 363
+Start importing Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Dirt_1A_D.png using Guid(5a5d391439e62174da461385de150077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd123acda4c9ce898921f102f6b8ffa5') in 0.063199 seconds 
+Number of asset objects unloaded after import = 2
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005972 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Completed reload, in  1.176 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1176ms)
-		BeginReloadAssembly (144ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (31ms)
-		EndReloadAssembly (952ms)
-			LoadAssemblies (104ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (178ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (30ms)
-			SetupLoadedEditorAssemblies (647ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (44ms)
-				ProcessInitializeOnLoadAttributes (570ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3085 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (21.9 KB). Loaded Objects now: 3601.
-Memory consumption went from 135.8 MB to 135.8 MB.
-Total: 2.952000 ms (FindLiveObjects: 0.227000 ms CreateObjectMapping: 0.089000 ms MarkObjects: 2.611600 ms  DeleteObjects: 0.022900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Sand_1A_D.terrainlayer
+  artifactKey: Guid(b54d2076d64cc084c81eb5829c6c81f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Sand_1A_D.terrainlayer using Guid(b54d2076d64cc084c81eb5829c6c81f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441387c3b25037905da9997d9a82ceae') in 0.009606 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Earth_1A_D.png
+  artifactKey: Guid(85cc5cd5225dc9540800c93cbbc08309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Earth_1A_D.png using Guid(85cc5cd5225dc9540800c93cbbc08309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5368437caf6656480a39d6ba2cb295fd') in 0.042011 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Sand_1A_D.png
+  artifactKey: Guid(e6ad79d1f1596a14186b906abb762932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Sand_1A_D.png using Guid(e6ad79d1f1596a14186b906abb762932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a1319c885a48fd065ea6f1d4b36b62d') in 0.033783 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Earth_1A_D.terrainlayer
+  artifactKey: Guid(200be16447503174a9c0e065e9f1c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Toon Fantasy Nature/Terrain/Layer_TFF_Terrain_Earth_1A_D.terrainlayer using Guid(200be16447503174a9c0e065e9f1c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1300d78d1353d6759804f4954c69707c') in 0.009406 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 60.418367 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Grass_1A_D.tif
+  artifactKey: Guid(2bf41c6a5e818ed49bd421aa8fa96aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Grass_1A_D.tif using Guid(2bf41c6a5e818ed49bd421aa8fa96aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf0fb40ca543cd301da818ff6eadd74') in 0.048467 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Sand_1A_D.tif
+  artifactKey: Guid(13073d4d45e36434382eeb19d3467f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Toon Fantasy Nature/Terrain/TFF_Terrain_Sand_1A_D.tif using Guid(13073d4d45e36434382eeb19d3467f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32109f076ac275ef6f47382e8753feb2') in 0.019862 seconds 
+Number of asset objects unloaded after import = 2
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
