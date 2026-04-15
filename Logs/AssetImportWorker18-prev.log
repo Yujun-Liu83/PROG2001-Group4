@@ -1,0 +1,552 @@
+Using pre-set license
+Built from '2021.3/china_unity/release' branch; Version is '2021.3.45f2c1 (8058fe21db2f) revision 8411390'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Professional' Language: 'zh' Physical Memory: 32388 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.45f2c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker18
+-projectPath
+C:/Users/Bobby2003/My project (7)
+-logFile
+Logs/AssetImportWorker18.log
+-srvPort
+50611
+Successfully changed project path to: C:/Users/Bobby2003/My project (7)
+C:/Users/Bobby2003/My project (7)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [57948] Host "[IP] 26.18.251.41 [Port] 0 [Flags] 2 [Guid] 192751385 [EditorId] 192751385 [Version] 1048832 [Id] WindowsEditor(7,Bobby) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [57948] Host "[IP] 26.18.251.41 [Port] 0 [Flags] 2 [Guid] 192751385 [EditorId] 192751385 [Version] 1048832 [Id] WindowsEditor(7,Bobby) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Refreshing native plugins compatible for Editor in 35.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.45f2c1 (8058fe21db2f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Bobby2003/My project (7)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.8097
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.45f2c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005181 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.450 seconds
+Domain Reload Profiling:
+	ReloadAssembly (451ms)
+		BeginReloadAssembly (77ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (298ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (72ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (18ms)
+			SetupLoadedEditorAssemblies (178ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (35ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (98ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004902 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  1.120 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1121ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (931ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (199ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (621ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (38ms)
+				ProcessInitializeOnLoadAttributes (559ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.31 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3109 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (46.8 KB). Loaded Objects now: 3585.
+Memory consumption went from 126.0 MB to 126.0 MB.
+Total: 3.193100 ms (FindLiveObjects: 0.187000 ms CreateObjectMapping: 0.062600 ms MarkObjects: 2.810600 ms  DeleteObjects: 0.131200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  1.197 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1197ms)
+		BeginReloadAssembly (146ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (972ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (210ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (628ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (40ms)
+				ProcessInitializeOnLoadAttributes (561ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3085 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (21.9 KB). Loaded Objects now: 3588.
+Memory consumption went from 124.1 MB to 124.1 MB.
+Total: 2.186300 ms (FindLiveObjects: 0.183500 ms CreateObjectMapping: 0.058200 ms MarkObjects: 1.925400 ms  DeleteObjects: 0.018200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 170505.490248 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Bunny.fbx
+  artifactKey: Guid(49f10d89ddfdd594f9ed88fa79351b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Bunny.fbx using Guid(49f10d89ddfdd594f9ed88fa79351b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f321cddc1bf7a7962a8e1786fd9f6eff') in 0.160101 seconds 
+Number of asset objects unloaded after import = 248
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Miniscene.fbx
+  artifactKey: Guid(03e4866e825cccc40a8567686e70b59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Miniscene.fbx using Guid(03e4866e825cccc40a8567686e70b59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7232db2028227ee003a69de100370fb') in 0.037382 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.190202 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Particle.mat
+  artifactKey: Guid(fe6f01c0e55c8d845b457dc9a743d3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Particle.mat using Guid(fe6f01c0e55c8d845b457dc9a743d3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6caad9605c487fb52ab3674c5debf8a6') in 0.047428 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 176.774688 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Accessories/BagA.fbx
+  artifactKey: Guid(5be37bd5510d591498edaf7e31b1dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Accessories/BagA.fbx using Guid(5be37bd5510d591498edaf7e31b1dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48fdf85dd20928de95a85d2736226ff') in 0.027311 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.003453 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Accessories/SantahatA.fbx
+  artifactKey: Guid(4e8b73ac01c3e344e9eb5df91442addf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Accessories/SantahatA.fbx using Guid(4e8b73ac01c3e344e9eb5df91442addf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2f1692923f42a6d49d455aec452c3a') in 0.032678 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Accessories/HatA.fbx
+  artifactKey: Guid(c775fad7ccf43db46968937457071dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Accessories/HatA.fbx using Guid(c775fad7ccf43db46968937457071dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418e2c4363281f5ca494e321f4ea43eb') in 0.056295 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Accessories/CleaverA.fbx
+  artifactKey: Guid(905a2db3b3cfd3d40aefccc8aa6d3563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Accessories/CleaverA.fbx using Guid(905a2db3b3cfd3d40aefccc8aa6d3563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09aba34c4ad413b63cbf4a4fb4df21b8') in 0.054951 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Accessories/FishmaceA.fbx
+  artifactKey: Guid(8fc64b4c675f1564ba1c43d37467699e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Accessories/FishmaceA.fbx using Guid(8fc64b4c675f1564ba1c43d37467699e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47278dc0e27af91a81f87ce87bdef3d5') in 0.041848 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/FBX/Accessories/MinihatA.fbx
+  artifactKey: Guid(a7043b07e9c01f548a32f5f7a76733f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/FBX/Accessories/MinihatA.fbx using Guid(a7043b07e9c01f548a32f5f7a76733f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '727645c83a4ee6111cf773a04d6f4ba8') in 0.046437 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 3.756906 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BackpackA2.mat
+  artifactKey: Guid(68f0da47c920df94da228b6566d52bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BackpackA2.mat using Guid(68f0da47c920df94da228b6566d52bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd8d4eb6559c298c3c830342eedc134') in 0.021656 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/Walking stickA2.mat
+  artifactKey: Guid(19029e7d11052354b842cb4cfd6b7279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/Walking stickA2.mat using Guid(19029e7d11052354b842cb4cfd6b7279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a127a3fce27246bcb5bd1eea4fa78863') in 0.020565 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/FishmaceA2.mat
+  artifactKey: Guid(cdb6b504d80800d4d9cd8ec82da51bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/FishmaceA2.mat using Guid(cdb6b504d80800d4d9cd8ec82da51bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e2b5fd884cda8261b0da7b829c6c48') in 0.021389 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/SantahatA2.mat
+  artifactKey: Guid(02905bf22e6beb74db97354268c5f5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/SantahatA2.mat using Guid(02905bf22e6beb74db97354268c5f5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7ac1d6b6651c8d3757297fb29c5eb7') in 0.023058 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BagA.mat
+  artifactKey: Guid(82253277ca6f57b42b1f6f520c53a5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BagA.mat using Guid(82253277ca6f57b42b1f6f520c53a5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3bab99df0d91b4d03ec657e4c98642') in 0.023467 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BagA2.mat
+  artifactKey: Guid(5405bbd4adc6a3c4aa021cd1e73dd4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BagA2.mat using Guid(5405bbd4adc6a3c4aa021cd1e73dd4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efeb2a48c8f560bedd00bcee65143be9') in 0.020161 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/HatA.mat
+  artifactKey: Guid(dc6ffd6bf7d24d94e87d3f21bc3b97c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/HatA.mat using Guid(dc6ffd6bf7d24d94e87d3f21bc3b97c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff5b795d8d9114ac05a1136cabb2146') in 0.021503 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/GlassesA4.mat
+  artifactKey: Guid(4e6754f223235864495b198dc0719246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/GlassesA4.mat using Guid(4e6754f223235864495b198dc0719246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2c06ce169591562107ddfa11f03690') in 0.023592 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/Walking stickA4.mat
+  artifactKey: Guid(0f959d31d83ee774f8993021c3a76765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/Walking stickA4.mat using Guid(0f959d31d83ee774f8993021c3a76765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21bb100c672a10486cc90484c87d3fd') in 0.024180 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/CleaverA.mat
+  artifactKey: Guid(7272bc04da7ae3b44899aea57924c271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/CleaverA.mat using Guid(7272bc04da7ae3b44899aea57924c271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9114765fb03e0956748bd4bc151bc6b') in 0.025870 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/MustacheA.mat
+  artifactKey: Guid(bb627a6586edb484280320db7ee1e84b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/MustacheA.mat using Guid(bb627a6586edb484280320db7ee1e84b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a0e71caa25437075ca260a9e6859b9') in 0.020249 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/FishmaceA.mat
+  artifactKey: Guid(6e54d2b705e0da642985f2d6fd169b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/FishmaceA.mat using Guid(6e54d2b705e0da642985f2d6fd169b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb9395c989282995efedafd4326d70a') in 0.021966 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/SantabagA.mat
+  artifactKey: Guid(5117de4b258fc1d4fb5282b457a70927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/SantabagA.mat using Guid(5117de4b258fc1d4fb5282b457a70927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728d25ee962fe0894739826edd6d60c7') in 0.021836 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/FishmaceA3.mat
+  artifactKey: Guid(73b74f3da6dbc4745b5108c2e12b458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/FishmaceA3.mat using Guid(73b74f3da6dbc4745b5108c2e12b458b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22200f6290051f882f13f1009a6cb38') in 0.021697 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/MinihatA.mat
+  artifactKey: Guid(96c97f5d40d4d5a43a0589b99c256b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/MinihatA.mat using Guid(96c97f5d40d4d5a43a0589b99c256b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ade6fc3f5a4aa88eccd578bf50726cd') in 0.026199 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BagA4.mat
+  artifactKey: Guid(149edfd5f74e4d945be108cb67dc2e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/BagA4.mat using Guid(149edfd5f74e4d945be108cb67dc2e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45cb2043fa81eaa041019560fff62284') in 0.017377 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Accessories/GlassesA.mat
+  artifactKey: Guid(5b664943b6a395d4d9f2577131722ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Accessories/GlassesA.mat using Guid(5b664943b6a395d4d9f2577131722ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39bdd7e1a9127d9b29874102808d3c9') in 0.020556 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.105555 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear02.mat
+  artifactKey: Guid(202410f1bbf41ca4f8a3c3f9e8abe9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear02.mat using Guid(202410f1bbf41ca4f8a3c3f9e8abe9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f6ce2e41ce34c1b3a4e1e1848751e5') in 0.021386 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear13.mat
+  artifactKey: Guid(b89f018c33ad59148b32857c65cdda20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear13.mat using Guid(b89f018c33ad59148b32857c65cdda20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fefc23873a1cb8685ca8fbeb3af8a24') in 0.020106 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear14.mat
+  artifactKey: Guid(8c4dcb999bb635841bc355dbb9f8404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear14.mat using Guid(8c4dcb999bb635841bc355dbb9f8404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee2c2e8bf014adf5f4cbcaf3b619365') in 0.018764 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear09.mat
+  artifactKey: Guid(ac2003d59ec440e43bea848d28620516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear09.mat using Guid(ac2003d59ec440e43bea848d28620516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8420281f34e109ac9fa7873e1c901f7') in 0.021060 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear12.mat
+  artifactKey: Guid(c77ca7578f7f9b24cadc281813fdfd45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Materials/Bear/Bear12.mat using Guid(c77ca7578f7f9b24cadc281813fdfd45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c89b4adb844c18cf66b0c7bab226755') in 0.019734 seconds 
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 13.901264 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Accessories/BagA4.png
+  artifactKey: Guid(ea3c722da2cf8724faa2876699a400b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Accessories/BagA4.png using Guid(ea3c722da2cf8724faa2876699a400b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9904b18ab0952b29a4c9e5d797f6f6b5') in 0.085443 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Accessories/FishmaceA3.png
+  artifactKey: Guid(c89c34587872e1245a0c3af218fc9b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Accessories/FishmaceA3.png using Guid(c89c34587872e1245a0c3af218fc9b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002ffdc4d072763020db26a2bfeccafb') in 0.059655 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Accessories/Walking stickA.png
+  artifactKey: Guid(eb9e3f27b931505438607440de57797f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Accessories/Walking stickA.png using Guid(eb9e3f27b931505438607440de57797f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec34c75c5480487851991ec26d150b2') in 0.021492 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Accessories/GlassesA.png
+  artifactKey: Guid(c0f002eb1811034419124321fa254dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Accessories/GlassesA.png using Guid(c0f002eb1811034419124321fa254dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a85990b1ff1a3103cd2effc5268fcd') in 0.049865 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Accessories/SantabagA.png
+  artifactKey: Guid(32faf7f8d4e24dc49b6a46b6865d7741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Accessories/SantabagA.png using Guid(32faf7f8d4e24dc49b6a46b6865d7741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdaa4d2321ca9ed4648937dbebbbb517') in 0.025552 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.830244 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Face/Face08.png
+  artifactKey: Guid(53ec86fa6cfa59d4fa019c4bce4c7911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Face/Face08.png using Guid(53ec86fa6cfa59d4fa019c4bce4c7911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26218a6ca0bad38542431cc96a115ce') in 0.026947 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Face/Face23.png
+  artifactKey: Guid(be9cceec88195d946980a6f5a2330485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Face/Face23.png using Guid(be9cceec88195d946980a6f5a2330485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d92cb691a9dd1a63d6e52f4cb61ce61') in 0.026215 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Face/Face25.png
+  artifactKey: Guid(8c4e642d9c2929c419a822659584fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Face/Face25.png using Guid(8c4e642d9c2929c419a822659584fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9cd72bf888b73fe06b8ae037c3da07') in 0.029262 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Suriyun/Yippy Kawaii/Texture/Face/Face15.png
+  artifactKey: Guid(e0485547461d11448aff34ddc249a9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Suriyun/Yippy Kawaii/Texture/Face/Face15.png using Guid(e0485547461d11448aff34ddc249a9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3068c44a64663be9242851c8e74cb5') in 0.031744 seconds 
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
